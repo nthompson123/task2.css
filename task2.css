@@ -1,0 +1,37 @@
+/*body{
+  background-image: image(atlanta.jpg);
+}*/
+header nav{
+  font-family: Segoe UI;
+  color: rgba(209,204,204,1);
+  font-size: 31px;
+  font-style: normal;
+  text-align: left;
+  white-space: nowrap;
+  font-weight: normal;
+}
+header div{
+  white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(209,204,204,1);
+}
+
+svg{
+  vertical-align: middle;
+}
+<style>
+  .rectangleDiv{
+    width:200px;
+    height: 100px;
+    border: 1px
+    padding: 20px
+    margin: 20px
+  }
+style
+div{
+  background: #3C3B3B;
+}
